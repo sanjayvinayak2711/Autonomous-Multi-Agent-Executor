@@ -284,6 +284,16 @@ PORT=8000
 
 ---
 
+## Key Achievements
+
+🤖 **Improved task success rate from ~65% → 88%** on evaluated workloads
+🔧 **Reduced error rate from ~35% → 12%** using validation layer
+📝 **Increased context retention from ~300 → 2000+ tokens**
+✅ **Successfully executed multi-step tasks with ~88% acceptable outputs**
+🏗️ **Designed agent pipeline with Query → Retrieval → Generation → Validation flow**
+
+---
+
 ## Measurable Improvements
 
 ### Before vs After Multi-Agent System
